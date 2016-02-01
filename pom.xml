@@ -14,6 +14,8 @@
     <!-- removed Web MQ listener module module this is rk uiu-3 -->
     <!-- removed Web MQ listener module module this is rk uiu-4 -->
     <!-- removed Web MQ listener module module this is rk uiu-5 -->
+
+    <!-- removed Web MQ listener module module this is rk uiu-10 -->
    
     <properties>
         <webSphereMQVersion>7.5</webSphereMQVersion>
