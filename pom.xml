@@ -12,6 +12,10 @@
     <!-- removed Web MQ listener module module this is rk uiu-1 - updated by others by 2 fdashes in jnn -->
     <!-- removed Web MQ listener module module this is rk uiu-2 -->
     <!-- removed Web MQ listener module module this is rk uiu-3 -->
+    <!-- removed Web MQ listener module module this is rk uiu-4 -->
+    <!-- removed Web MQ listener module module this is rk uiu-5 -->
+    <!-- removed Web MQ listener module module this is rk uiu-6 -->
+    <!-- removed Web MQ listener module module this is rk uiu-7 -->
     <properties>
         <webSphereMQVersion>7.5</webSphereMQVersion>
         <wmq.jars>${basedir}/lib</wmq.jars>
