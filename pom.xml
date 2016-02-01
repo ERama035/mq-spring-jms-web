@@ -9,7 +9,8 @@
     <packaging>war</packaging>
    
     <name>Web MQ listener module</name>
-<!-- removed Web MQ listener module module this is rk uiu-1 - updated by others by 2 fdashes by today happening -->
+    <!-- removed Web MQ listener module module this is rk uiu-1 - updated by others by 2 fdashes in jnn -->
+    <!-- removed Web MQ listener module module this is rk uiu-2 -->
     <properties>
         <webSphereMQVersion>7.5</webSphereMQVersion>
         <wmq.jars>${basedir}/lib</wmq.jars>
