@@ -9,6 +9,9 @@
     <packaging>war</packaging>
    
     <name>Web MQ listener module</name>
+
+    <!--feature release 1 -->
+
 <!-- removed Web MQ listener module module this is rk uiu-1 - updated by others by 2 fdashes -->
  <!-- removed Web MQ listener module module this is rk uiu-6 -->
     <!-- removed Web MQ listener module module this is rk uiu-7 -->
@@ -17,7 +20,6 @@
     <!-- removed Web MQ listener module module this is rk uiu-3 -->
     <!-- removed Web MQ listener module module this is rk uiu-4 -->
     <!-- removed Web MQ listener module module this is rk uiu-5 -->
-
     <!-- removed Web MQ listener module module this is rk uiu-1012 -->
     <!-- removed Web MQ listener module module this is rk uiu-1012-1013 -->
 
