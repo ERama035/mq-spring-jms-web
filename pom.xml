@@ -9,7 +9,7 @@
     <packaging>war</packaging>
    
     <name>Web MQ listener module</name>
-<!-- removed-->
+<!-- removed Web MQ listener module-->
     <properties>
         <webSphereMQVersion>7.5</webSphereMQVersion>
         <wmq.jars>${basedir}/lib</wmq.jars>
