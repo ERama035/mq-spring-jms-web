@@ -7,9 +7,9 @@
     <artifactId>spring.jms.web</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <packaging>jar</packaging>
+   
     <name>Web MQ listener module</name>
-
+<!-- removed-->
     <properties>
         <webSphereMQVersion>7.5</webSphereMQVersion>
         <wmq.jars>${basedir}/lib</wmq.jars>
