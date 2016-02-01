@@ -20,7 +20,6 @@ public class FileStorage implements Storage {
     public static final String EXTENSION = ".dat";
 
     private File destinationFolder;
-
     @PostConstruct
     public void postConstruction() {
         destinationFolder = new File("/tmp/" + FileStorage.class.getSimpleName());
